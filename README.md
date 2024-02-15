@@ -2,6 +2,7 @@
 
 This repository hosts a comprehensive analysis of stock data using big data analytics techniques. The workflow encompasses dataset characterization and predictive analysis, providing valuable insights into the stock market dynamics.
 The dataset used is taken from Kaggle. 
+
 The link to the dataset is here: https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories
 
 ## Dataset Characterization
